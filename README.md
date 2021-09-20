@@ -1,6 +1,6 @@
 
 # what is this
 
-![polls](./imageOfPollpollss.png)
+![polls](./imageOfPollpolls.png)
 
 Django View Routing Test
